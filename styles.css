@@ -1,0 +1,47 @@
+body {
+    text-align:center;
+}
+
+a {
+    color:rgb(51, 176, 218);
+    font-weight:bold;
+    font-size:40px;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.centered_lasagna {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+.plate {
+    width:250px;
+    height:250px;
+}
+
+h1 {
+    color:aqua;
+    font-size:50px;
+}
+
+.lasagna 
+img:hover {
+    background: url("img/lasagna.jpg") no-repeat; 
+}
